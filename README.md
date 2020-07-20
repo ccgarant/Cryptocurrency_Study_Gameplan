@@ -95,8 +95,21 @@ My notes on learning the introductory fundamentals about cryptocurrency
 
 
 ## ERC-20 stablecoins
+-[cointelegraph](https://cointelegraph.com/explained/erc-20-tokens-explained)
+-[investopedia](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)
+-[bitcoinwiki](https://en.bitcoinwiki.org/wiki/ERC20)
+
+### USD Coin (USDC)
+- [Circle](https://www.circle.com/en/usdc)
+
+### USD Tether (USDT)
+-[Tether](https://tether.to/)
+-[Tether Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf)
+
+
 
 ## ETH2.0
+- proof-of-work to proof-of-stake
 
 ## Cardano
 
